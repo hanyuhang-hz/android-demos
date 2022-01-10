@@ -1,24 +1,16 @@
 # android-demos
-1 RandomService
+1 RandomService,MusicService
 
 https://blog.csdn.net/u012906122/article/details/122027047
 
-2 MusicService
 
-https://blog.csdn.net/u012906122/article/details/122027047  
-
-
-3 Camera2Test
+2 Camera2Test
 
 
-4 ProgressBar 
+3 ProgressBar,ViewFlipper,LooperThread
 
 https://blog.csdn.net/u012906122/article/details/122247493
 
-5 ViewFlipper
+4 KeyDown,LongClick,MoveHat,TouchAndClick 
 
-https://blog.csdn.net/u012906122/article/details/122247493
-
-6 LooperThread
-
-https://blog.csdn.net/u012906122/article/details/122247493
+https://blog.csdn.net/u012906122/article/details/122420515
