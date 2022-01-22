@@ -14,3 +14,7 @@ https://blog.csdn.net/u012906122/article/details/122247493
 4 KeyDown,LongClick,MoveHat,TouchAndClick 
 
 https://blog.csdn.net/u012906122/article/details/122420515
+
+5 PasswordActivity,AddressActivity,HeadActivity,TabFragment 
+
+https://blog.csdn.net/u012906122/article/details/122636368
