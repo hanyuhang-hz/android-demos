@@ -22,3 +22,7 @@ https://blog.csdn.net/u012906122/article/details/122636368
 6 PhoneSmsIntent,HomeIntent,ActionViewIntent 
 
 https://blog.csdn.net/u012906122/article/details/122769271
+
+7 CameraRecord
+
+https://blog.csdn.net/u012906122/article/details/121729435
