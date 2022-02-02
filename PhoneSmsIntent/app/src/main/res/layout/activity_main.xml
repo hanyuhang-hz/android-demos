@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageButton
+        android:id="@+id/imageButton_phone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/phone"
+        android:layout_marginTop="30dp"
+        android:background="#0000"
+        android:scaleType="fitXY"
+        />
+    <ImageButton
+        android:id="@+id/imageButton_sms"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/imageButton_phone"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="30dp"
+        android:background="#0000"
+        android:scaleType="fitXY"
+        android:src="@drawable/sms"/>
+
+</RelativeLayout>

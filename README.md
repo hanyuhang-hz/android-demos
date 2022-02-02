@@ -18,3 +18,7 @@ https://blog.csdn.net/u012906122/article/details/122420515
 5 PasswordActivity,AddressActivity,HeadActivity,TabFragment 
 
 https://blog.csdn.net/u012906122/article/details/122636368
+
+6 PhoneSmsIntent,HomeIntent,ActionViewIntent 
+
+https://blog.csdn.net/u012906122/article/details/122769271
