@@ -26,3 +26,7 @@ https://blog.csdn.net/u012906122/article/details/122769271
 7 CameraRecord
 
 https://blog.csdn.net/u012906122/article/details/121729435
+
+8 PhotosView
+
+https://blog.csdn.net/u012906122/article/details/122801215?spm=1001.2014.3001.5502
