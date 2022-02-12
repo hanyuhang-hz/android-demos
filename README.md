@@ -40,3 +40,7 @@ https://blog.csdn.net/u012906122/article/details/122881376
 10 SeekBar,RatingBar
 
 https://blog.csdn.net/u012906122/article/details/122896309?spm=1001.2014.3001.5501
+
+11 ImageSwitcher,GridView
+
+https://blog.csdn.net/u012906122/article/details/122903569
