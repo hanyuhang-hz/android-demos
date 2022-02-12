@@ -11,6 +11,8 @@ https://blog.csdn.net/u012906122/article/details/122027047
 
 https://blog.csdn.net/u012906122/article/details/122247493
 
+https://blog.csdn.net/u012906122/article/details/122896309?spm=1001.2014.3001.5501
+
 4 KeyDown,LongClick,MoveHat,TouchAndClick 
 
 https://blog.csdn.net/u012906122/article/details/122420515
@@ -34,3 +36,7 @@ https://blog.csdn.net/u012906122/article/details/122801215?spm=1001.2014.3001.55
 9 externalTest/test
 
 https://blog.csdn.net/u012906122/article/details/122881376
+
+10 SeekBar,RatingBar
+
+https://blog.csdn.net/u012906122/article/details/122896309?spm=1001.2014.3001.5501
