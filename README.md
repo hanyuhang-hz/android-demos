@@ -44,3 +44,7 @@ https://blog.csdn.net/u012906122/article/details/122896309?spm=1001.2014.3001.55
 11 ImageSwitcher,GridView
 
 https://blog.csdn.net/u012906122/article/details/122903569
+
+12 Spinner,ListView
+
+https://blog.csdn.net/u012906122/article/details/122908968
