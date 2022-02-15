@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ContextMenu</string>
+    <string name="introduce_copy">复制</string>
+    <string name="introduce_collect">收藏</string>
+    <string name="introduce_translate">翻译</string>
+    <string name="introduce_report">举报</string>
+    <string name="book_collect">收藏</string>
+    <string name="book_report">举报</string>
+    <string name="introduce">站在巨人的肩膀上，温故而知新。请长按测试。</string>
+</resources>

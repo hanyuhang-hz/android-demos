@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_copy"
+        android:title="@string/introduce_copy"></item>
+    <item
+        android:id="@+id/menu_collect"
+        android:title="@string/introduce_collect"></item>
+    <item
+        android:id="@+id/menu_translate"
+        android:title="@string/introduce_translate"></item>
+    <item
+        android:id="@+id/menu_report"
+        android:title="@string/introduce_report"></item>
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OptionMenu</string>
+    <string name="Regard_name">关 于</string>
+    <string name="menu_title_settings">设 置</string>
+    <string name="menu_title_regard">关 于</string>
+    <string name="title1">关于...</string>
+    <string name="title2">设置...</string>
+</resources>

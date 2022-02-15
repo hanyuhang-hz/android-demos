@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_book_collect"
+        android:title="@string/book_collect"></item>
+    <item
+        android:id="@+id/menu_book_report"
+        android:title="@string/book_report"></item>
+</menu>
